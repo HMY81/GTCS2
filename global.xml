@@ -5,6 +5,7 @@
          <var name="Var000" type="BOOL"/>
          <var name="Var001" type="BOOL"/>
          <var name="Var010" type="BOOL"/>
+         <var name="INT000" type="INT" dim="3"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
