@@ -53,5 +53,6 @@
       <pou name="pOnDivZero" sect="end" lge="ST"/>
       <pou name="pOnBadIndex" sect="end" lge="ST"/>
       <pou name="test_GIt_Logic1" sect="end" lge="ST"/>
+      <pou name="Main2" sect="end" lge="ST"/>
    </poulist>
 </K5project>
