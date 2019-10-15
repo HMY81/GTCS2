@@ -2,6 +2,17 @@
 <K5project version="1.1">
    <variables>
       <vargroup name="(Global)" kind="GLOBAL">
+         <var name="Var000" type="BOOL"/>
+         <var name="Var001" type="BOOL"/>
+         <var name="Var002" type="BOOL"/>
+         <var name="Var003" type="BOOL"/>
+         <var name="Var004" type="BOOL"/>
+         <var name="Var005" type="BOOL"/>
+         <var name="Var006" type="BOOL"/>
+         <var name="Var007" type="BOOL"/>
+         <var name="Var008" type="BOOL"/>
+         <var name="Var009" type="BOOL"/>
+         <var name="Var010" type="BOOL"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
