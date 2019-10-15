@@ -6,6 +6,11 @@
          <var name="Var001" type="BOOL"/>
          <var name="Var010" type="BOOL"/>
          <var name="INT000" type="INT" dim="3"/>
+         <var name="Real000" type="REAL"/>
+         <var name="Real001" type="REAL"/>
+         <var name="Real002" type="REAL"/>
+         <var name="Real003" type="REAL"/>
+         <var name="Real004" type="REAL"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
