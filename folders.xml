@@ -8,6 +8,7 @@
    </Folder>
    <Folder Name="Programs">
       <Program Name="Main"/>
+      <Program Name="Main2"/>
       <Program Name="test_GIt_Logic1"/>
    </Folder>
    <Folder Name="Watch (for debugging)">
