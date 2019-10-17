@@ -11,6 +11,7 @@
          <var name="Real002" type="REAL"/>
          <var name="Real003" type="REAL"/>
          <var name="Real004" type="REAL"/>
+         <var name="Real0041" type="REAL"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
