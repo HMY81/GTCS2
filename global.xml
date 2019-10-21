@@ -5,6 +5,7 @@
          <var name="test12345" type="BOOL"/>
          <var name="NewVar" type="BOOL"/>
          <var name="NewVar1" type="BOOL"/>
+         <var name="NewVar11" type="BOOL"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
