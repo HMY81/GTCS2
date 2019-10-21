@@ -10,6 +10,9 @@
    <Folder Name="Watch (for debugging)">
       <File Name="Soft Scope.SS5"/>
    </Folder>
+   <Program Name="Main"/>
+   <Program Name="Main2"/>
+   <Program Name="test_GIt_Logic1"/>
    <File Name="Initial values.RCP"/>
    <Binding/>
    <GlobalDef/>
