@@ -47,7 +47,6 @@
    <libraries>
    </libraries>
    <poulist>
-      <pou name="Main5" sect="begin" lge="ST"/>
       <pou name="pStartup" sect="end" lge="ST"/>
       <pou name="pShutDown" sect="end" lge="ST"/>
       <pou name="pOnDivZero" sect="end" lge="ST"/>
