@@ -6,6 +6,17 @@
          <var name="NewVar" type="BOOL"/>
          <var name="NewVar1" type="BOOL"/>
          <var name="NewVar11" type="BOOL"/>
+         <var name="test000" type="BOOL"/>
+         <var name="test001" type="BOOL"/>
+         <var name="test002" type="BOOL"/>
+         <var name="test003" type="BOOL"/>
+         <var name="test004" type="BOOL"/>
+         <var name="test005" type="BOOL"/>
+         <var name="test006" type="BOOL"/>
+         <var name="test007" type="BOOL"/>
+         <var name="test008" type="BOOL"/>
+         <var name="test009" type="BOOL"/>
+         <var name="test010" type="BOOL"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
