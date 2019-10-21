@@ -17,6 +17,11 @@
          <var name="test008" type="BOOL"/>
          <var name="test009" type="BOOL"/>
          <var name="test010" type="BOOL"/>
+         <var name="test0011" type="BOOL"/>
+         <var name="test0012" type="BOOL"/>
+         <var name="test0013" type="BOOL"/>
+         <var name="test0014" type="BOOL"/>
+         <var name="test0015" type="BOOL"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
