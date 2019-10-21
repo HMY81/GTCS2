@@ -6,9 +6,7 @@
       <Program Name="pShutDown"/>
       <Program Name="pStartup"/>
    </Folder>
-   <Folder Name="Programs">
-      <Program Name="Main"/>
-   </Folder>
+   <Folder Name="Programs"/>
    <Folder Name="Watch (for debugging)">
       <File Name="Soft Scope.SS5"/>
    </Folder>
