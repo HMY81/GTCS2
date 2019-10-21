@@ -8,6 +8,7 @@
                <modbusitem ope="Data" offset="0" symbol="Var001" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
                <modbusitem ope="Data" offset="0" symbol="Var010" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
                <modbusitem ope="Data" offset="0" symbol="Real000" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
+               <modbusitem ope="Data" offset="0" symbol="NewVar11" nbword="1" mask="ffff" RangeHi="" RangeLo="" SigHi="" SigLo=""/>
             </modbusreq>
          </modbusport>
       </modbus>
